@@ -28,6 +28,7 @@ News
 =
 
 <div style="height: 200px; width: 100%; overflow-y: scroll; border: 1px solid transparent; background-color: #f0f0f0; padding: 5px;font-size: 16px; line-height:2">
+    <li> Jun. 2026, Three papers were accepted by <span style="color: red;">MICCAI 2026</span> . Congrats!</li>  
     <li> Sep. 2025, I presented an invited talk at OYSS2025 in Qingdao.</li>
     <li> Sep. 2025, Meng Zhou's paper was accepted by <span style="color: red;">Expert Systems with Applications</span> (IF:7.5, JCR Q1).</li>  
     <li> Jun. 2025, I presented an talk at BME2025 in Suzhou.</li>
